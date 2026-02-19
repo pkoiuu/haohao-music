@@ -1,0 +1,2227 @@
+﻿{
+    "songs":  [
+                  {
+                      "name":  "盗墓笔记·十年人间 (小乔版)",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "休闲洗澡/盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3",
+                      "filename":  "盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "不得不爱",
+                      "artist":  "潘玮柏,弦子",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/不得不爱-潘玮柏,弦子.mp3",
+                      "filename":  "不得不爱-潘玮柏,弦子.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/不得不爱-潘玮柏,弦子.mp3"
+                  },
+                  {
+                      "name":  "伴你成长",
+                      "artist":  "白挺",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/伴你成长-白挺.mp3",
+                      "filename":  "伴你成长-白挺.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/伴你成长-白挺.mp3"
+                  },
+                  {
+                      "name":  "妈妈的话",
+                      "artist":  "Zyboy忠宇",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/妈妈的话-Zyboy忠宇#2p8ZQQ.mp3",
+                      "filename":  "妈妈的话-Zyboy忠宇#2p8ZQQ.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/妈妈的话-Zyboy忠宇#2p8ZQQ.mp3"
+                  },
+                  {
+                      "name":  "少年(不是原版)",
+                      "artist":  "",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/少年(不是原版).mp3",
+                      "filename":  "少年(不是原版).mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/少年(不是原版).mp3"
+                  },
+                  {
+                      "name":  "少年",
+                      "artist":  "梦然",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/少年-梦然#j1Cjn.mp3",
+                      "filename":  "少年-梦然#j1Cjn.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/少年-梦然#j1Cjn.mp3"
+                  },
+                  {
+                      "name":  "我的未来式",
+                      "artist":  "郭采洁",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/我的未来式-郭采洁#9R3X.mp3",
+                      "filename":  "我的未来式-郭采洁#9R3X.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/我的未来式-郭采洁#9R3X.mp3"
+                  },
+                  {
+                      "name":  "终会与你同行",
+                      "artist":  "白挺",
+                      "subcategory":  "中文流行",
+                      "path":  "休闲洗澡/中文流行/终会与你同行-白挺.mp3",
+                      "filename":  "终会与你同行-白挺.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/中文流行/终会与你同行-白挺.mp3"
+                  },
+                  {
+                      "name":  "春风十里",
+                      "artist":  "鹿先森乐队",
+                      "subcategory":  "治愈系",
+                      "path":  "休闲洗澡/治愈系/春风十里-鹿先森乐队.mp3",
+                      "filename":  "春风十里-鹿先森乐队.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/治愈系/春风十里-鹿先森乐队.mp3"
+                  },
+                  {
+                      "name":  "青花瓷",
+                      "artist":  "刘芳",
+                      "subcategory":  "治愈系",
+                      "path":  "休闲洗澡/治愈系/青花瓷-刘芳.mp3",
+                      "filename":  "青花瓷-刘芳.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/治愈系/青花瓷-刘芳.mp3"
+                  },
+                  {
+                      "name":  "鹿 be free",
+                      "artist":  "尚雯婕",
+                      "subcategory":  "治愈系",
+                      "path":  "休闲洗澡/治愈系/鹿 be free-尚雯婕.mp3",
+                      "filename":  "鹿 be free-尚雯婕.mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/治愈系/鹿 be free-尚雯婕.mp3"
+                  },
+                  {
+                      "name":  "[All My Friends Say (我所有的朋友都说)]",
+                      "artist":  "[] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[All My Friends Say (我所有的朋友都说)] - [] - [Leisure Bath].flac",
+                      "filename":  "[All My Friends Say (我所有的朋友都说)] - [] - [Leisure Bath].flac",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[All My Friends Say (我所有的朋友都说)] - [] - [Leisure Bath].flac"
+                  },
+                  {
+                      "name":  "[Done Talking]",
+                      "artist":  "[EK Darkurai] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Done Talking] - [EK Darkurai] - [Leisure Bath].mp3",
+                      "filename":  "[Done Talking] - [EK Darkurai] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Done Talking] - [EK Darkurai] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Dream (Feat. YOUHA (유하), TRADE L)]",
+                      "artist":  "[Minit] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Dream (Feat. YOUHA (유하), TRADE L)] - [Minit] - [Leisure Bath].mp3",
+                      "filename":  "[Dream (Feat. YOUHA (유하), TRADE L)] - [Minit] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Dream (Feat. YOUHA (유하), TRADE L)] - [Minit] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Hello Summer (Radio Edit)]",
+                      "artist":  "[Rameez] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Hello Summer (Radio Edit)] - [Rameez] - [Leisure Bath].flac",
+                      "filename":  "[Hello Summer (Radio Edit)] - [Rameez] - [Leisure Bath].flac",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Hello Summer (Radio Edit)] - [Rameez] - [Leisure Bath].flac"
+                  },
+                  {
+                      "name":  "[High]",
+                      "artist":  "[Tiffany Houghton] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[High] - [Tiffany Houghton] - [Leisure Bath].flac",
+                      "filename":  "[High] - [Tiffany Houghton] - [Leisure Bath].flac",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[High] - [Tiffany Houghton] - [Leisure Bath].flac"
+                  },
+                  {
+                      "name":  "[One of a Kind (feat. Sarah Kang)]",
+                      "artist":  "[Sam Ock] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[One of a Kind (feat. Sarah Kang)] - [Sam Ock] - [Leisure Bath].mp3",
+                      "filename":  "[One of a Kind (feat. Sarah Kang)] - [Sam Ock] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[One of a Kind (feat. Sarah Kang)] - [Sam Ock] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Something Just Like This (DJ Asher Remix Cover)]",
+                      "artist":  "[DJ Asher] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Something Just Like This (DJ Asher Remix Cover)] - [DJ Asher] - [Leisure Bath].mp3",
+                      "filename":  "[Something Just Like This (DJ Asher Remix Cover)] - [DJ Asher] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Something Just Like This (DJ Asher Remix Cover)] - [DJ Asher] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Tattoo (feat. Jayci yucca, 용용 (YongYong))]",
+                      "artist":  "[Minit] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Tattoo (feat. Jayci yucca, 용용 (YongYong))] - [Minit] - [Leisure Bath].mp3",
+                      "filename":  "[Tattoo (feat. Jayci yucca, 용용 (YongYong))] - [Minit] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Tattoo (feat. Jayci yucca, 용용 (YongYong))] - [Minit] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Turnin\u0027]",
+                      "artist":  "[Young Rising Sons] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Turnin\u0027] - [Young Rising Sons] - [Leisure Bath].mp3",
+                      "filename":  "[Turnin\u0027] - [Young Rising Sons] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Turnin\u0027] - [Young Rising Sons] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[Welcome To New York]",
+                      "artist":  "[Taylor Swift] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[Welcome To New York] - [Taylor Swift] - [Leisure Bath].mp3",
+                      "filename":  "[Welcome To New York] - [Taylor Swift] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[Welcome To New York] - [Taylor Swift] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[What About]",
+                      "artist":  "[Blaxian] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[What About] - [Blaxian] - [Leisure Bath].mp3",
+                      "filename":  "[What About] - [Blaxian] - [Leisure Bath].mp3",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[What About] - [Blaxian] - [Leisure Bath].mp3"
+                  },
+                  {
+                      "name":  "[You Don\u0027t Know Me]",
+                      "artist":  "[Ofenbach, Brodie Barclay] - [Leisure Bath]",
+                      "subcategory":  "流行精选",
+                      "path":  "休闲洗澡/流行精选/[You Don\u0027t Know Me] - [Ofenbach, Brodie Barclay] - [Leisure Bath].flac",
+                      "filename":  "[You Don\u0027t Know Me] - [Ofenbach, Brodie Barclay] - [Leisure Bath].flac",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/流行精选/[You Don\u0027t Know Me] - [Ofenbach, Brodie Barclay] - [Leisure Bath].flac"
+                  },
+                  {
+                      "name":  "Journey",
+                      "artist":  "Capo Productions",
+                      "subcategory":  "轻音乐",
+                      "path":  "休闲洗澡/轻音乐/Journey-Capo Productions.flac",
+                      "filename":  "Journey-Capo Productions.flac",
+                      "category":  "休闲洗澡",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/休闲洗澡/轻音乐/Journey-Capo Productions.flac"
+                  },
+                  {
+                      "name":  "obj",
+                      "artist":  "wo3DlMOGwrbDjj7DisKw-28556335488-28f9-2025-5224-e37a348ce6642b5249df034d721ef6bb_2",
+                      "subcategory":  "",
+                      "path":  "开心活泼/obj-wo3DlMOGwrbDjj7DisKw-28556335488-28f9-2025-5224-e37a348ce6642b5249df034d721ef6bb_2.mp3",
+                      "filename":  "obj-wo3DlMOGwrbDjj7DisKw-28556335488-28f9-2025-5224-e37a348ce6642b5249df034d721ef6bb_2.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/obj-wo3DlMOGwrbDjj7DisKw-28556335488-28f9-2025-5224-e37a348ce6642b5249df034d721ef6bb_2.mp3"
+                  },
+                  {
+                      "name":  "不得不爱",
+                      "artist":  "潘玮柏,弦子",
+                      "subcategory":  "",
+                      "path":  "开心活泼/不得不爱-潘玮柏,弦子.mp3",
+                      "filename":  "不得不爱-潘玮柏,弦子.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/不得不爱-潘玮柏,弦子.mp3"
+                  },
+                  {
+                      "name":  "伴你成长",
+                      "artist":  "白挺",
+                      "subcategory":  "",
+                      "path":  "开心活泼/伴你成长-白挺.mp3",
+                      "filename":  "伴你成长-白挺.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/伴你成长-白挺.mp3"
+                  },
+                  {
+                      "name":  "告白气球",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/告白气球 - 周杰伦.mp3",
+                      "filename":  "告白气球 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/告白气球 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "妈妈的话",
+                      "artist":  "Zyboy忠宇",
+                      "subcategory":  "",
+                      "path":  "开心活泼/妈妈的话-Zyboy忠宇#2p8ZQQ.mp3",
+                      "filename":  "妈妈的话-Zyboy忠宇#2p8ZQQ.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/妈妈的话-Zyboy忠宇#2p8ZQQ.mp3"
+                  },
+                  {
+                      "name":  "少年(不是原版)",
+                      "artist":  "",
+                      "subcategory":  "",
+                      "path":  "开心活泼/少年(不是原版).mp3",
+                      "filename":  "少年(不是原版).mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/少年(不是原版).mp3"
+                  },
+                  {
+                      "name":  "少年",
+                      "artist":  "梦然",
+                      "subcategory":  "",
+                      "path":  "开心活泼/少年-梦然#j1Cjn.mp3",
+                      "filename":  "少年-梦然#j1Cjn.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/少年-梦然#j1Cjn.mp3"
+                  },
+                  {
+                      "name":  "带你去旅行",
+                      "artist":  "校长（张驰）",
+                      "subcategory":  "",
+                      "path":  "开心活泼/带你去旅行 - 校长（张驰）.mp3",
+                      "filename":  "带你去旅行 - 校长（张驰）.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/带你去旅行 - 校长（张驰）.mp3"
+                  },
+                  {
+                      "name":  "我的未来式",
+                      "artist":  "郭采洁",
+                      "subcategory":  "",
+                      "path":  "开心活泼/我的未来式-郭采洁#9R3X.mp3",
+                      "filename":  "我的未来式-郭采洁#9R3X.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/我的未来式-郭采洁#9R3X.mp3"
+                  },
+                  {
+                      "name":  "春风十里",
+                      "artist":  "鹿先森乐队",
+                      "subcategory":  "",
+                      "path":  "开心活泼/春风十里-鹿先森乐队.mp3",
+                      "filename":  "春风十里-鹿先森乐队.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/春风十里-鹿先森乐队.mp3"
+                  },
+                  {
+                      "name":  "晴天",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/晴天 - 周杰伦.mp3",
+                      "filename":  "晴天 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/晴天 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "爱在西元前",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/爱在西元前 - 周杰伦.mp3",
+                      "filename":  "爱在西元前 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/爱在西元前 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "盗墓笔记·十年人间 (小乔版)",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "开心活泼/盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3",
+                      "filename":  "盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/盗墓笔记·十年人间 (小乔版)-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "稻香",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/稻香 - 周杰伦.mp3",
+                      "filename":  "稻香 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/稻香 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "终会与你同行",
+                      "artist":  "白挺",
+                      "subcategory":  "",
+                      "path":  "开心活泼/终会与你同行-白挺.mp3",
+                      "filename":  "终会与你同行-白挺.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/终会与你同行-白挺.mp3"
+                  },
+                  {
+                      "name":  "花海",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/花海 - 周杰伦.mp3",
+                      "filename":  "花海 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/花海 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "蒲公英的约定",
+                      "artist":  "周杰伦",
+                      "subcategory":  "",
+                      "path":  "开心活泼/蒲公英的约定 - 周杰伦.mp3",
+                      "filename":  "蒲公英的约定 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/蒲公英的约定 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "铡美案",
+                      "artist":  "康万生",
+                      "subcategory":  "",
+                      "path":  "开心活泼/铡美案-康万生#2o1tDi.mp3",
+                      "filename":  "铡美案-康万生#2o1tDi.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/铡美案-康万生#2o1tDi.mp3"
+                  },
+                  {
+                      "name":  "青花瓷",
+                      "artist":  "刘芳",
+                      "subcategory":  "",
+                      "path":  "开心活泼/青花瓷-刘芳.mp3",
+                      "filename":  "青花瓷-刘芳.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/青花瓷-刘芳.mp3"
+                  },
+                  {
+                      "name":  "鹿 be free",
+                      "artist":  "尚雯婕",
+                      "subcategory":  "",
+                      "path":  "开心活泼/鹿 be free-尚雯婕.mp3",
+                      "filename":  "鹿 be free-尚雯婕.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/鹿 be free-尚雯婕.mp3"
+                  },
+                  {
+                      "name":  "Something Just Like This(Megamix)",
+                      "artist":  "AnDyWuMUSICLAND",
+                      "subcategory":  "DJ混音",
+                      "path":  "开心活泼/DJ混音/Something Just Like This(Megamix)-AnDyWuMUSICLAND.mp3",
+                      "filename":  "Something Just Like This(Megamix)-AnDyWuMUSICLAND.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/DJ混音/Something Just Like This(Megamix)-AnDyWuMUSICLAND.mp3"
+                  },
+                  {
+                      "name":  "我还有点小糊涂",
+                      "artist":  "刘晨",
+                      "subcategory":  "儿歌童谣",
+                      "path":  "开心活泼/儿歌童谣/我还有点小糊涂-刘晨.mp3",
+                      "filename":  "我还有点小糊涂-刘晨.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/儿歌童谣/我还有点小糊涂-刘晨.mp3"
+                  },
+                  {
+                      "name":  "让我们荡起双桨",
+                      "artist":  "蓝天合唱团",
+                      "subcategory":  "儿歌童谣",
+                      "path":  "开心活泼/儿歌童谣/让我们荡起双桨-蓝天合唱团.mp3",
+                      "filename":  "让我们荡起双桨-蓝天合唱团.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/儿歌童谣/让我们荡起双桨-蓝天合唱团.mp3"
+                  },
+                  {
+                      "name":  "告白气球",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/告白气球 - 周杰伦.mp3",
+                      "filename":  "告白气球 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/告白气球 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "晴天",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/晴天 - 周杰伦.mp3",
+                      "filename":  "晴天 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/晴天 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "爱在西元前",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/爱在西元前 - 周杰伦.mp3",
+                      "filename":  "爱在西元前 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/爱在西元前 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "稻香",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/稻香 - 周杰伦.mp3",
+                      "filename":  "稻香 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/稻香 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "花海",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/花海 - 周杰伦.mp3",
+                      "filename":  "花海 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/花海 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "蒲公英的约定",
+                      "artist":  "周杰伦",
+                      "subcategory":  "流行热歌",
+                      "path":  "开心活泼/流行热歌/蒲公英的约定 - 周杰伦.mp3",
+                      "filename":  "蒲公英的约定 - 周杰伦.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/流行热歌/蒲公英的约定 - 周杰伦.mp3"
+                  },
+                  {
+                      "name":  "APT.",
+                      "artist":  "ROSÉ",
+                      "subcategory":  "青春活力",
+                      "path":  "开心活泼/青春活力/APT.-ROSÉ.mp3",
+                      "filename":  "APT.-ROSÉ.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/青春活力/APT.-ROSÉ.mp3"
+                  },
+                  {
+                      "name":  "小美满",
+                      "artist":  "周深",
+                      "subcategory":  "青春活力",
+                      "path":  "开心活泼/青春活力/小美满-周深.mp3",
+                      "filename":  "小美满-周深.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/青春活力/小美满-周深.mp3"
+                  },
+                  {
+                      "name":  "带你去旅行",
+                      "artist":  "校长（张驰）",
+                      "subcategory":  "青春活力",
+                      "path":  "开心活泼/青春活力/带你去旅行 - 校长（张驰）.mp3",
+                      "filename":  "带你去旅行 - 校长（张驰）.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/青春活力/带你去旅行 - 校长（张驰）.mp3"
+                  },
+                  {
+                      "name":  "樱花树下的约定",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "青春活力",
+                      "path":  "开心活泼/青春活力/樱花树下的约定-旺仔小乔.mp3",
+                      "filename":  "樱花树下的约定-旺仔小乔.mp3",
+                      "category":  "开心活泼",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/开心活泼/青春活力/樱花树下的约定-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "uu(刘梦妤)",
+                      "artist":  "那女孩对我说",
+                      "subcategory":  "",
+                      "path":  "深夜eom/uu(刘梦妤)-那女孩对我说.flac",
+                      "filename":  "uu(刘梦妤)-那女孩对我说.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/uu(刘梦妤)-那女孩对我说.flac"
+                  },
+                  {
+                      "name":  "你从未离去",
+                      "artist":  "白挺",
+                      "subcategory":  "",
+                      "path":  "深夜eom/你从未离去-白挺.mp3",
+                      "filename":  "你从未离去-白挺.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/你从未离去-白挺.mp3"
+                  },
+                  {
+                      "name":  "半阳",
+                      "artist":  "一曲相思",
+                      "subcategory":  "",
+                      "path":  "深夜eom/半阳-一曲相思.flac",
+                      "filename":  "半阳-一曲相思.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/半阳-一曲相思.flac"
+                  },
+                  {
+                      "name":  "堕 (小乔版)(DJAh版)",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "深夜eom/堕 (小乔版)(DJAh版)-旺仔小乔.mp3",
+                      "filename":  "堕 (小乔版)(DJAh版)-旺仔小乔.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/堕 (小乔版)(DJAh版)-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "如果爱忘了",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "深夜eom/如果爱忘了-旺仔小乔.mp3",
+                      "filename":  "如果爱忘了-旺仔小乔.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/如果爱忘了-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "妈妈的话",
+                      "artist":  "Zyboy忠宇",
+                      "subcategory":  "",
+                      "path":  "深夜eom/妈妈的话-Zyboy忠宇.mp3",
+                      "filename":  "妈妈的话-Zyboy忠宇.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/妈妈的话-Zyboy忠宇.mp3"
+                  },
+                  {
+                      "name":  "年轮",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "深夜eom/年轮-旺仔小乔.mp3",
+                      "filename":  "年轮-旺仔小乔.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/年轮-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "把回忆拼好给你",
+                      "artist":  "王贰浪",
+                      "subcategory":  "",
+                      "path":  "深夜eom/把回忆拼好给你-王贰浪.mp3",
+                      "filename":  "把回忆拼好给你-王贰浪.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/把回忆拼好给你-王贰浪.mp3"
+                  },
+                  {
+                      "name":  "暴林\u0026乔玲儿",
+                      "artist":  "今夜的你又在和谁约会",
+                      "subcategory":  "",
+                      "path":  "深夜eom/暴林\u0026乔玲儿-今夜的你又在和谁约会.flac",
+                      "filename":  "暴林\u0026乔玲儿-今夜的你又在和谁约会.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/暴林\u0026乔玲儿-今夜的你又在和谁约会.flac"
+                  },
+                  {
+                      "name":  "最好的安排",
+                      "artist":  "旺仔小乔",
+                      "subcategory":  "",
+                      "path":  "深夜eom/最好的安排-旺仔小乔.mp3",
+                      "filename":  "最好的安排-旺仔小乔.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/最好的安排-旺仔小乔.mp3"
+                  },
+                  {
+                      "name":  "本兮",
+                      "artist":  "我梦见我梦见我",
+                      "subcategory":  "",
+                      "path":  "深夜eom/本兮-我梦见我梦见我.flac",
+                      "filename":  "本兮-我梦见我梦见我.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/本兮-我梦见我梦见我.flac"
+                  },
+                  {
+                      "name":  "比莉",
+                      "artist":  "dear john",
+                      "subcategory":  "",
+                      "path":  "深夜eom/比莉-dear john.flac",
+                      "filename":  "比莉-dear john.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/比莉-dear john.flac"
+                  },
+                  {
+                      "name":  "蔡健雅",
+                      "artist":  "红色高跟鞋",
+                      "subcategory":  "",
+                      "path":  "深夜eom/蔡健雅-红色高跟鞋.flac",
+                      "filename":  "蔡健雅-红色高跟鞋.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/蔡健雅-红色高跟鞋.flac"
+                  },
+                  {
+                      "name":  "阿yueyue",
+                      "artist":  "不负人间",
+                      "subcategory":  "",
+                      "path":  "深夜eom/阿yueyue-不负人间.flac",
+                      "filename":  "阿yueyue-不负人间.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/阿yueyue-不负人间.flac"
+                  },
+                  {
+                      "name":  "阿yueyue",
+                      "artist":  "云与海",
+                      "subcategory":  "",
+                      "path":  "深夜eom/阿yueyue-云与海.flac",
+                      "filename":  "阿yueyue-云与海.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/阿yueyue-云与海.flac"
+                  },
+                  {
+                      "name":  "阿悄",
+                      "artist":  "海海海",
+                      "subcategory":  "",
+                      "path":  "深夜eom/阿悄-海海海.flac",
+                      "filename":  "阿悄-海海海.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/阿悄-海海海.flac"
+                  },
+                  {
+                      "name":  "阿悠悠",
+                      "artist":  "一生与你擦肩而过",
+                      "subcategory":  "",
+                      "path":  "深夜eom/阿悠悠-一生与你擦肩而过.flac",
+                      "filename":  "阿悠悠-一生与你擦肩而过.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/阿悠悠-一生与你擦肩而过.flac"
+                  },
+                  {
+                      "name":  "阿悠悠",
+                      "artist":  "旧梦一场",
+                      "subcategory":  "",
+                      "path":  "深夜eom/阿悠悠-旧梦一场.flac",
+                      "filename":  "阿悠悠-旧梦一场.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/阿悠悠-旧梦一场.flac"
+                  },
+                  {
+                      "name":  "陈文非",
+                      "artist":  "孤独颂歌",
+                      "subcategory":  "",
+                      "path":  "深夜eom/陈文非-孤独颂歌.flac",
+                      "filename":  "陈文非-孤独颂歌.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/陈文非-孤独颂歌.flac"
+                  },
+                  {
+                      "name":  "陈硕子",
+                      "artist":  "凌晨三点",
+                      "subcategory":  "",
+                      "path":  "深夜eom/陈硕子-凌晨三点.flac",
+                      "filename":  "陈硕子-凌晨三点.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/陈硕子-凌晨三点.flac"
+                  },
+                  {
+                      "name":  "七叔(叶泽浩)",
+                      "artist":  "燕无歇",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/七叔(叶泽浩)-燕无歇.flac",
+                      "filename":  "七叔(叶泽浩)-燕无歇.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/七叔(叶泽浩)-燕无歇.flac"
+                  },
+                  {
+                      "name":  "乔星儿",
+                      "artist":  "再见了，后会无期",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/乔星儿-再见了，后会无期.flac",
+                      "filename":  "乔星儿-再见了，后会无期.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/乔星儿-再见了，后会无期.flac"
+                  },
+                  {
+                      "name":  "井胧",
+                      "artist":  "把孤独当做晚餐",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/井胧-把孤独当做晚餐.flac",
+                      "filename":  "井胧-把孤独当做晚餐.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/井胧-把孤独当做晚餐.flac"
+                  },
+                  {
+                      "name":  "井迪儿",
+                      "artist":  "失控",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/井迪儿-失控.flac",
+                      "filename":  "井迪儿-失控.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/井迪儿-失控.flac"
+                  },
+                  {
+                      "name":  "任妙音\u0026王峰",
+                      "artist":  "想你的夜我睡不着",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任妙音\u0026王峰-想你的夜我睡不着.flac",
+                      "filename":  "任妙音\u0026王峰-想你的夜我睡不着.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任妙音\u0026王峰-想你的夜我睡不着.flac"
+                  },
+                  {
+                      "name":  "任然",
+                      "artist":  "后继者",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-后继者.flac",
+                      "filename":  "任然-后继者.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-后继者.flac"
+                  },
+                  {
+                      "name":  "任然",
+                      "artist":  "飞鸟和蝉",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-飞鸟和蝉.flac",
+                      "filename":  "任然-飞鸟和蝉.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-飞鸟和蝉.flac"
+                  },
+                  {
+                      "name":  "刘旭阳",
+                      "artist":  "把孤独当晚餐(男生原版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘旭阳-把孤独当晚餐(男生原版).flac",
+                      "filename":  "刘旭阳-把孤独当晚餐(男生原版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘旭阳-把孤独当晚餐(男生原版).flac"
+                  },
+                  {
+                      "name":  "刘若英",
+                      "artist":  "后来",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘若英-后来.flac",
+                      "filename":  "刘若英-后来.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘若英-后来.flac"
+                  },
+                  {
+                      "name":  "刘鑫",
+                      "artist":  "好的分手",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘鑫-好的分手.flac",
+                      "filename":  "刘鑫-好的分手.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/刘鑫-好的分手.flac"
+                  },
+                  {
+                      "name":  "名决",
+                      "artist":  "时间的过客",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/名决-时间的过客.flac",
+                      "filename":  "名决-时间的过客.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/名决-时间的过客.flac"
+                  },
+                  {
+                      "name":  "吕大叶\u0026马子林broma\u0026陈觅lynne\u0026王以诺",
+                      "artist":  "篝火旁",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吕大叶\u0026马子林broma\u0026陈觅lynne\u0026王以诺-篝火旁.flac",
+                      "filename":  "吕大叶\u0026马子林broma\u0026陈觅lynne\u0026王以诺-篝火旁.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吕大叶\u0026马子林broma\u0026陈觅lynne\u0026王以诺-篝火旁.flac"
+                  },
+                  {
+                      "name":  "庞晓宇",
+                      "artist":  "爱了为什么要离开",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/庞晓宇-爱了为什么要离开.flac",
+                      "filename":  "庞晓宇-爱了为什么要离开.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/庞晓宇-爱了为什么要离开.flac"
+                  },
+                  {
+                      "name":  "彭十六",
+                      "artist":  "戏影(其他)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/彭十六-戏影(其他).flac",
+                      "filename":  "彭十六-戏影(其他).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/彭十六-戏影(其他).flac"
+                  },
+                  {
+                      "name":  "摩登兄弟刘宇宁",
+                      "artist":  "孤独的人在哪里",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/摩登兄弟刘宇宁-孤独的人在哪里.flac",
+                      "filename":  "摩登兄弟刘宇宁-孤独的人在哪里.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/摩登兄弟刘宇宁-孤独的人在哪里.flac"
+                  },
+                  {
+                      "name":  "曲肖冰",
+                      "artist":  "厚颜无耻",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/曲肖冰-厚颜无耻.flac",
+                      "filename":  "曲肖冰-厚颜无耻.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/曲肖冰-厚颜无耻.flac"
+                  },
+                  {
+                      "name":  "李丽芬",
+                      "artist":  "爱不释手",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李丽芬-爱不释手.flac",
+                      "filename":  "李丽芬-爱不释手.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李丽芬-爱不释手.flac"
+                  },
+                  {
+                      "name":  "李润祺",
+                      "artist":  "茫",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李润祺-茫.flac",
+                      "filename":  "李润祺-茫.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李润祺-茫.flac"
+                  },
+                  {
+                      "name":  "李甜",
+                      "artist":  "反正最后",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李甜-反正最后.flac",
+                      "filename":  "李甜-反正最后.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李甜-反正最后.flac"
+                  },
+                  {
+                      "name":  "李袁杰",
+                      "artist":  "离人愁",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李袁杰-离人愁.flac",
+                      "filename":  "李袁杰-离人愁.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/李袁杰-离人愁.flac"
+                  },
+                  {
+                      "name":  "来一碗老于",
+                      "artist":  "解药(新版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/来一碗老于-解药(新版).flac",
+                      "filename":  "来一碗老于-解药(新版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/来一碗老于-解药(新版).flac"
+                  },
+                  {
+                      "name":  "林俊杰",
+                      "artist":  "可惜没如果",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林俊杰-可惜没如果.flac",
+                      "filename":  "林俊杰-可惜没如果.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林俊杰-可惜没如果.flac"
+                  },
+                  {
+                      "name":  "林俊杰",
+                      "artist":  "我还想她",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林俊杰-我还想她.flac",
+                      "filename":  "林俊杰-我还想她.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林俊杰-我还想她.flac"
+                  },
+                  {
+                      "name":  "林小珂",
+                      "artist":  "尘埃",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林小珂-尘埃.flac",
+                      "filename":  "林小珂-尘埃.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林小珂-尘埃.flac"
+                  },
+                  {
+                      "name":  "林晨阳",
+                      "artist":  "失眠播报",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林晨阳-失眠播报.flac",
+                      "filename":  "林晨阳-失眠播报.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/林晨阳-失眠播报.flac"
+                  },
+                  {
+                      "name":  "枯木逢春",
+                      "artist":  "这一生关于你的风景(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/枯木逢春-这一生关于你的风景(live).flac",
+                      "filename":  "枯木逢春-这一生关于你的风景(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/枯木逢春-这一生关于你的风景(live).flac"
+                  },
+                  {
+                      "name":  "柯柯柯啊",
+                      "artist":  "樱花树下的约定(热搜版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/柯柯柯啊-樱花树下的约定(热搜版).flac",
+                      "filename":  "柯柯柯啊-樱花树下的约定(热搜版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/柯柯柯啊-樱花树下的约定(热搜版).flac"
+                  },
+                  {
+                      "name":  "梁博",
+                      "artist":  "出现又离开(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/梁博-出现又离开(live).flac",
+                      "filename":  "梁博-出现又离开(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/梁博-出现又离开(live).flac"
+                  },
+                  {
+                      "name":  "梁静茹",
+                      "artist":  "可惜不是你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/梁静茹-可惜不是你.flac",
+                      "filename":  "梁静茹-可惜不是你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/梁静茹-可惜不是你.flac"
+                  },
+                  {
+                      "name":  "洛先生",
+                      "artist":  "孤城",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/洛先生-孤城.flac",
+                      "filename":  "洛先生-孤城.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/洛先生-孤城.flac"
+                  },
+                  {
+                      "name":  "浪子成龙",
+                      "artist":  "把孤独当作晚餐",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/浪子成龙-把孤独当作晚餐.flac",
+                      "filename":  "浪子成龙-把孤独当作晚餐.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/浪子成龙-把孤独当作晚餐.flac"
+                  },
+                  {
+                      "name":  "清水er",
+                      "artist":  "大天蓬(女生版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/清水er-大天蓬(女生版).flac",
+                      "filename":  "清水er-大天蓬(女生版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/清水er-大天蓬(女生版).flac"
+                  },
+                  {
+                      "name":  "牛佳钰",
+                      "artist":  "白色",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/牛佳钰-白色.flac",
+                      "filename":  "牛佳钰-白色.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/牛佳钰-白色.flac"
+                  },
+                  {
+                      "name":  "皮卡丘多多",
+                      "artist":  "惊雷(抒情版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/皮卡丘多多-惊雷(抒情版).flac",
+                      "filename":  "皮卡丘多多-惊雷(抒情版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/皮卡丘多多-惊雷(抒情版).flac"
+                  },
+                  {
+                      "name":  "秋原依",
+                      "artist":  "错季",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/秋原依-错季.flac",
+                      "filename":  "秋原依-错季.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/秋原依-错季.flac"
+                  },
+                  {
+                      "name":  "秦海清",
+                      "artist":  "不如",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/秦海清-不如.flac",
+                      "filename":  "秦海清-不如.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/秦海清-不如.flac"
+                  },
+                  {
+                      "name":  "蒋蒋\u0026曲肖冰",
+                      "artist":  "当真",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/蒋蒋\u0026曲肖冰-当真.flac",
+                      "filename":  "蒋蒋\u0026曲肖冰-当真.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/蒋蒋\u0026曲肖冰-当真.flac"
+                  },
+                  {
+                      "name":  "蒋雪儿",
+                      "artist":  "莫问归期",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/蒋雪儿-莫问归期.flac",
+                      "filename":  "蒋雪儿-莫问归期.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/蒋雪儿-莫问归期.flac"
+                  },
+                  {
+                      "name":  "街道办gdc\u0026欧阳耀莹",
+                      "artist":  "春娇与志明",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/街道办gdc\u0026欧阳耀莹-春娇与志明.flac",
+                      "filename":  "街道办gdc\u0026欧阳耀莹-春娇与志明.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/街道办gdc\u0026欧阳耀莹-春娇与志明.flac"
+                  },
+                  {
+                      "name":  "金莎",
+                      "artist":  "平行线",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/金莎-平行线.flac",
+                      "filename":  "金莎-平行线.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/金莎-平行线.flac"
+                  },
+                  {
+                      "name":  "霈丹(浪哥)",
+                      "artist":  "忆爱",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/霈丹(浪哥)-忆爱.flac",
+                      "filename":  "霈丹(浪哥)-忆爱.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/霈丹(浪哥)-忆爱.flac"
+                  },
+                  {
+                      "name":  "马艮",
+                      "artist":  "往后余生",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/马艮-往后余生.flac",
+                      "filename":  "马艮-往后余生.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/马艮-往后余生.flac"
+                  },
+                  {
+                      "name":  "鸾音社",
+                      "artist":  "臣妾告退",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/鸾音社-臣妾告退.flac",
+                      "filename":  "鸾音社-臣妾告退.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/鸾音社-臣妾告退.flac"
+                  },
+                  {
+                      "name":  "于文文",
+                      "artist":  "分手那天",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于文文-分手那天.flac",
+                      "filename":  "于文文-分手那天.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于文文-分手那天.flac"
+                  },
+                  {
+                      "name":  "于果",
+                      "artist":  "侧脸",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于果-侧脸.flac",
+                      "filename":  "于果-侧脸.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于果-侧脸.flac"
+                  },
+                  {
+                      "name":  "于洋",
+                      "artist":  "望爱却步",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于洋-望爱却步.flac",
+                      "filename":  "于洋-望爱却步.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/于洋-望爱却步.flac"
+                  },
+                  {
+                      "name":  "亦勋",
+                      "artist":  "借东风",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/亦勋-借东风.flac",
+                      "filename":  "亦勋-借东风.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/亦勋-借东风.flac"
+                  },
+                  {
+                      "name":  "伊格赛听\u0026叶里",
+                      "artist":  "谪仙",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/伊格赛听\u0026叶里-谪仙.flac",
+                      "filename":  "伊格赛听\u0026叶里-谪仙.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/伊格赛听\u0026叶里-谪仙.flac"
+                  },
+                  {
+                      "name":  "周传雄",
+                      "artist":  "黄昏",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周传雄-黄昏.flac",
+                      "filename":  "周传雄-黄昏.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周传雄-黄昏.flac"
+                  },
+                  {
+                      "name":  "周延英(英子",
+                      "artist":  "effie)-那个人",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周延英(英子-effie)-那个人.flac",
+                      "filename":  "周延英(英子-effie)-那个人.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周延英(英子-effie)-那个人.flac"
+                  },
+                  {
+                      "name":  "周思涵",
+                      "artist":  "语气词",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周思涵-语气词.flac",
+                      "filename":  "周思涵-语气词.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周思涵-语气词.flac"
+                  },
+                  {
+                      "name":  "周思涵",
+                      "artist":  "过客",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周思涵-过客.flac",
+                      "filename":  "周思涵-过客.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周思涵-过客.flac"
+                  },
+                  {
+                      "name":  "周星辰",
+                      "artist":  "最后没有你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周星辰-最后没有你.flac",
+                      "filename":  "周星辰-最后没有你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周星辰-最后没有你.flac"
+                  },
+                  {
+                      "name":  "周笔畅\u0026韦释迪\u0026胡66",
+                      "artist":  "最美的期待(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周笔畅\u0026韦释迪\u0026胡66-最美的期待(live).flac",
+                      "filename":  "周笔畅\u0026韦释迪\u0026胡66-最美的期待(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/周笔畅\u0026韦释迪\u0026胡66-最美的期待(live).flac"
+                  },
+                  {
+                      "name":  "姚六一",
+                      "artist":  "雾里",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/姚六一-雾里.flac",
+                      "filename":  "姚六一-雾里.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/姚六一-雾里.flac"
+                  },
+                  {
+                      "name":  "庄心妍",
+                      "artist":  "再见只是陌生人",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/庄心妍-再见只是陌生人.flac",
+                      "filename":  "庄心妍-再见只是陌生人.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/庄心妍-再见只是陌生人.flac"
+                  },
+                  {
+                      "name":  "张北北",
+                      "artist":  "拥抱你离去",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张北北-拥抱你离去.flac",
+                      "filename":  "张北北-拥抱你离去.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张北北-拥抱你离去.flac"
+                  },
+                  {
+                      "name":  "张敬轩",
+                      "artist":  "只是太爱你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张敬轩-只是太爱你.flac",
+                      "filename":  "张敬轩-只是太爱你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张敬轩-只是太爱你.flac"
+                  },
+                  {
+                      "name":  "张碧晨",
+                      "artist":  "今后我与自己流浪",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张碧晨-今后我与自己流浪.flac",
+                      "filename":  "张碧晨-今后我与自己流浪.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张碧晨-今后我与自己流浪.flac"
+                  },
+                  {
+                      "name":  "张紫豪",
+                      "artist":  "不顾一切",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张紫豪-不顾一切.flac",
+                      "filename":  "张紫豪-不顾一切.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张紫豪-不顾一切.flac"
+                  },
+                  {
+                      "name":  "张紫豪",
+                      "artist":  "可不可以",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张紫豪-可不可以.flac",
+                      "filename":  "张紫豪-可不可以.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张紫豪-可不可以.flac"
+                  },
+                  {
+                      "name":  "张远",
+                      "artist":  "嘉宾",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张远-嘉宾.flac",
+                      "filename":  "张远-嘉宾.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/张远-嘉宾.flac"
+                  },
+                  {
+                      "name":  "执素兮",
+                      "artist":  "赤伶(正式版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/执素兮-赤伶(正式版).flac",
+                      "filename":  "执素兮-赤伶(正式版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/执素兮-赤伶(正式版).flac"
+                  },
+                  {
+                      "name":  "杨昊铭",
+                      "artist":  "为你我受冷风吹",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/杨昊铭-为你我受冷风吹.flac",
+                      "filename":  "杨昊铭-为你我受冷风吹.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/杨昊铭-为你我受冷风吹.flac"
+                  },
+                  {
+                      "name":  "浙音4811(一个大金意)",
+                      "artist":  "拜拜",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/浙音4811(一个大金意)-拜拜.flac",
+                      "filename":  "浙音4811(一个大金意)-拜拜.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/浙音4811(一个大金意)-拜拜.flac"
+                  },
+                  {
+                      "name":  "渔圈\u0026欧阳朵",
+                      "artist":  "失去才懂",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/渔圈\u0026欧阳朵-失去才懂.flac",
+                      "filename":  "渔圈\u0026欧阳朵-失去才懂.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/渔圈\u0026欧阳朵-失去才懂.flac"
+                  },
+                  {
+                      "name":  "烟巴儿",
+                      "artist":  "纸短情长",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/烟巴儿-纸短情长.flac",
+                      "filename":  "烟巴儿-纸短情长.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/烟巴儿-纸短情长.flac"
+                  },
+                  {
+                      "name":  "纸砚zyan",
+                      "artist":  "画皮",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/纸砚zyan-画皮.flac",
+                      "filename":  "纸砚zyan-画皮.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/纸砚zyan-画皮.flac"
+                  },
+                  {
+                      "name":  "袁娅维tia ray",
+                      "artist":  "说散就散",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/袁娅维tia ray-说散就散.flac",
+                      "filename":  "袁娅维tia ray-说散就散.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/袁娅维tia ray-说散就散.flac"
+                  },
+                  {
+                      "name":  "赵乃吉",
+                      "artist":  "曾经你说",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵乃吉-曾经你说.flac",
+                      "filename":  "赵乃吉-曾经你说.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵乃吉-曾经你说.flac"
+                  },
+                  {
+                      "name":  "赵品霖",
+                      "artist":  "灰烬",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵品霖-灰烬.flac",
+                      "filename":  "赵品霖-灰烬.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵品霖-灰烬.flac"
+                  },
+                  {
+                      "name":  "赵方婧",
+                      "artist":  "尽头",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵方婧-尽头.flac",
+                      "filename":  "赵方婧-尽头.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵方婧-尽头.flac"
+                  },
+                  {
+                      "name":  "赵鑫",
+                      "artist":  "许多年以后",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵鑫-许多年以后.flac",
+                      "filename":  "赵鑫-许多年以后.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/赵鑫-许多年以后.flac"
+                  },
+                  {
+                      "name":  "郑亦辰",
+                      "artist":  "相思成灾",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/郑亦辰-相思成灾.flac",
+                      "filename":  "郑亦辰-相思成灾.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/郑亦辰-相思成灾.flac"
+                  },
+                  {
+                      "name":  "闫泽欢",
+                      "artist":  "我不难过",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/闫泽欢-我不难过.flac",
+                      "filename":  "闫泽欢-我不难过.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/闫泽欢-我不难过.flac"
+                  },
+                  {
+                      "name":  "音阙诗听",
+                      "artist":  "红昭愿",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/音阙诗听-红昭愿.flac",
+                      "filename":  "音阙诗听-红昭愿.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/1/音阙诗听-红昭愿.flac"
+                  },
+                  {
+                      "name":  "三楠",
+                      "artist":  "晚风作酒",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/三楠-晚风作酒.flac",
+                      "filename":  "三楠-晚风作酒.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/三楠-晚风作酒.flac"
+                  },
+                  {
+                      "name":  "丸子呦",
+                      "artist":  "广寒宫",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/丸子呦-广寒宫.flac",
+                      "filename":  "丸子呦-广寒宫.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/丸子呦-广寒宫.flac"
+                  },
+                  {
+                      "name":  "五月天",
+                      "artist":  "后来的我们",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/五月天-后来的我们.flac",
+                      "filename":  "五月天-后来的我们.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/五月天-后来的我们.flac"
+                  },
+                  {
+                      "name":  "任然",
+                      "artist":  "无人之岛",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-无人之岛.flac",
+                      "filename":  "任然-无人之岛.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/任然-无人之岛.flac"
+                  },
+                  {
+                      "name":  "吴姗姗",
+                      "artist":  "你选择冷漠，我选择洒脱",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-你选择冷漠，我选择洒脱.flac",
+                      "filename":  "吴姗姗-你选择冷漠，我选择洒脱.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-你选择冷漠，我选择洒脱.flac"
+                  },
+                  {
+                      "name":  "吴姗姗",
+                      "artist":  "多年以后你是谁的谁(djheap九天版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-多年以后你是谁的谁(djheap九天版).flac",
+                      "filename":  "吴姗姗-多年以后你是谁的谁(djheap九天版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-多年以后你是谁的谁(djheap九天版).flac"
+                  },
+                  {
+                      "name":  "吴姗姗",
+                      "artist":  "新欢旧梦(dj沈念版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-新欢旧梦(dj沈念版).flac",
+                      "filename":  "吴姗姗-新欢旧梦(dj沈念版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/吴姗姗-新欢旧梦(dj沈念版).flac"
+                  },
+                  {
+                      "name":  "孙燕姿",
+                      "artist":  "遇见",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/孙燕姿-遇见.flac",
+                      "filename":  "孙燕姿-遇见.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/孙燕姿-遇见.flac"
+                  },
+                  {
+                      "name":  "孙紫晴",
+                      "artist":  "解药",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/孙紫晴-解药.flac",
+                      "filename":  "孙紫晴-解药.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/孙紫晴-解药.flac"
+                  },
+                  {
+                      "name":  "宋厦",
+                      "artist":  "孤岛",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/宋厦-孤岛.flac",
+                      "filename":  "宋厦-孤岛.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/宋厦-孤岛.flac"
+                  },
+                  {
+                      "name":  "小咪",
+                      "artist":  "即兴",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小咪-即兴.flac",
+                      "filename":  "小咪-即兴.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小咪-即兴.flac"
+                  },
+                  {
+                      "name":  "小咪",
+                      "artist":  "我走后",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小咪-我走后.flac",
+                      "filename":  "小咪-我走后.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小咪-我走后.flac"
+                  },
+                  {
+                      "name":  "小小浩\u0026欧阳朵",
+                      "artist":  "落单恋人",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小小浩\u0026欧阳朵-落单恋人.flac",
+                      "filename":  "小小浩\u0026欧阳朵-落单恋人.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小小浩\u0026欧阳朵-落单恋人.flac"
+                  },
+                  {
+                      "name":  "小星星Aurora",
+                      "artist":  "坠落星空",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小星星Aurora-坠落星空.flac",
+                      "filename":  "小星星Aurora-坠落星空.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小星星Aurora-坠落星空.flac"
+                  },
+                  {
+                      "name":  "小灿",
+                      "artist":  "想死却又不敢",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小灿-想死却又不敢.flac",
+                      "filename":  "小灿-想死却又不敢.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小灿-想死却又不敢.flac"
+                  },
+                  {
+                      "name":  "小阿七",
+                      "artist":  "沉溺",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小阿七-沉溺.flac",
+                      "filename":  "小阿七-沉溺.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小阿七-沉溺.flac"
+                  },
+                  {
+                      "name":  "小阿七",
+                      "artist":  "酒家",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小阿七-酒家.flac",
+                      "filename":  "小阿七-酒家.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/小阿七-酒家.flac"
+                  },
+                  {
+                      "name":  "徐一鸣",
+                      "artist":  "你的多情伤害了我",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/徐一鸣-你的多情伤害了我.flac",
+                      "filename":  "徐一鸣-你的多情伤害了我.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/徐一鸣-你的多情伤害了我.flac"
+                  },
+                  {
+                      "name":  "徐畅sen",
+                      "artist":  "世事无常",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/徐畅sen-世事无常.flac",
+                      "filename":  "徐畅sen-世事无常.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/徐畅sen-世事无常.flac"
+                  },
+                  {
+                      "name":  "星月组合",
+                      "artist":  "红尘云烟",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/星月组合-红尘云烟.flac",
+                      "filename":  "星月组合-红尘云烟.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/星月组合-红尘云烟.flac"
+                  },
+                  {
+                      "name":  "汪睿",
+                      "artist":  "幸福了 然后呢(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/汪睿-幸福了 然后呢(live).flac",
+                      "filename":  "汪睿-幸福了 然后呢(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/汪睿-幸福了 然后呢(live).flac"
+                  },
+                  {
+                      "name":  "汪苏泷",
+                      "artist":  "风度",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/汪苏泷-风度.flac",
+                      "filename":  "汪苏泷-风度.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/汪苏泷-风度.flac"
+                  },
+                  {
+                      "name":  "王佳杨",
+                      "artist":  "相识一场",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王佳杨-相识一场.flac",
+                      "filename":  "王佳杨-相识一场.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王佳杨-相识一场.flac"
+                  },
+                  {
+                      "name":  "王小帅",
+                      "artist":  "怨苍天变了心( 正式版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王小帅-怨苍天变了心( 正式版).flac",
+                      "filename":  "王小帅-怨苍天变了心( 正式版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王小帅-怨苍天变了心( 正式版).flac"
+                  },
+                  {
+                      "name":  "王小帅",
+                      "artist":  "最近",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王小帅-最近.flac",
+                      "filename":  "王小帅-最近.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王小帅-最近.flac"
+                  },
+                  {
+                      "name":  "王忻辰\u0026苏星婕",
+                      "artist":  "清空",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王忻辰\u0026苏星婕-清空.flac",
+                      "filename":  "王忻辰\u0026苏星婕-清空.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王忻辰\u0026苏星婕-清空.flac"
+                  },
+                  {
+                      "name":  "王恰恰",
+                      "artist":  "撕夜",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王恰恰-撕夜.flac",
+                      "filename":  "王恰恰-撕夜.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王恰恰-撕夜.flac"
+                  },
+                  {
+                      "name":  "王羽泽",
+                      "artist":  "女人带走我的心",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王羽泽-女人带走我的心.flac",
+                      "filename":  "王羽泽-女人带走我的心.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王羽泽-女人带走我的心.flac"
+                  },
+                  {
+                      "name":  "王般若",
+                      "artist":  "南方的我 北方的你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王般若-南方的我 北方的你.flac",
+                      "filename":  "王般若-南方的我 北方的你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王般若-南方的我 北方的你.flac"
+                  },
+                  {
+                      "name":  "王贰浪",
+                      "artist":  "像鱼",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王贰浪-像鱼.flac",
+                      "filename":  "王贰浪-像鱼.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王贰浪-像鱼.flac"
+                  },
+                  {
+                      "name":  "王赫野",
+                      "artist":  "大风吹",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王赫野-大风吹.flac",
+                      "filename":  "王赫野-大风吹.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王赫野-大风吹.flac"
+                  },
+                  {
+                      "name":  "王靖雯",
+                      "artist":  "不知所措",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-不知所措.flac",
+                      "filename":  "王靖雯-不知所措.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-不知所措.flac"
+                  },
+                  {
+                      "name":  "王靖雯",
+                      "artist":  "善变",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-善变.flac",
+                      "filename":  "王靖雯-善变.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-善变.flac"
+                  },
+                  {
+                      "name":  "王靖雯",
+                      "artist":  "忘了没有",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-忘了没有.flac",
+                      "filename":  "王靖雯-忘了没有.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-忘了没有.flac"
+                  },
+                  {
+                      "name":  "王靖雯",
+                      "artist":  "沦陷",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-沦陷.flac",
+                      "filename":  "王靖雯-沦陷.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/王靖雯-沦陷.flac"
+                  },
+                  {
+                      "name":  "田馥甄",
+                      "artist":  "寂寞寂寞就好",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/田馥甄-寂寞寂寞就好.flac",
+                      "filename":  "田馥甄-寂寞寂寞就好.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/田馥甄-寂寞寂寞就好.flac"
+                  },
+                  {
+                      "name":  "苏打绿",
+                      "artist":  "我好想你(i miss you so)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/苏打绿-我好想你(i miss you so).flac",
+                      "filename":  "苏打绿-我好想你(i miss you so).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/苏打绿-我好想你(i miss you so).flac"
+                  },
+                  {
+                      "name":  "苏谭谭",
+                      "artist":  "那个她",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/苏谭谭-那个她.flac",
+                      "filename":  "苏谭谭-那个她.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/苏谭谭-那个她.flac"
+                  },
+                  {
+                      "name":  "薛之谦\u0026郭聪明",
+                      "artist":  "耗尽",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/薛之谦\u0026郭聪明-耗尽.flac",
+                      "filename":  "薛之谦\u0026郭聪明-耗尽.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/薛之谦\u0026郭聪明-耗尽.flac"
+                  },
+                  {
+                      "name":  "薛之谦",
+                      "artist":  "木偶人",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/薛之谦-木偶人.flac",
+                      "filename":  "薛之谦-木偶人.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/薛之谦-木偶人.flac"
+                  },
+                  {
+                      "name":  "魏新雨",
+                      "artist":  "余情未了",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/魏新雨-余情未了.flac",
+                      "filename":  "魏新雨-余情未了.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/魏新雨-余情未了.flac"
+                  },
+                  {
+                      "name":  "丁芙妮",
+                      "artist":  "只是太爱你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/丁芙妮-只是太爱你.flac",
+                      "filename":  "丁芙妮-只是太爱你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/丁芙妮-只是太爱你.flac"
+                  },
+                  {
+                      "name":  "东来东往",
+                      "artist":  "别说我的眼泪你无所谓",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/东来东往-别说我的眼泪你无所谓.flac",
+                      "filename":  "东来东往-别说我的眼泪你无所谓.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/东来东往-别说我的眼泪你无所谓.flac"
+                  },
+                  {
+                      "name":  "光头华夏",
+                      "artist":  "无期",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/光头华夏-无期.flac",
+                      "filename":  "光头华夏-无期.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/光头华夏-无期.flac"
+                  },
+                  {
+                      "name":  "关心",
+                      "artist":  "提笔忘情",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/关心-提笔忘情.flac",
+                      "filename":  "关心-提笔忘情.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/关心-提笔忘情.flac"
+                  },
+                  {
+                      "name":  "刀郎",
+                      "artist":  "西海情歌",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/刀郎-西海情歌.flac",
+                      "filename":  "刀郎-西海情歌.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/刀郎-西海情歌.flac"
+                  },
+                  {
+                      "name":  "动力火车",
+                      "artist":  "背叛情歌",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/动力火车-背叛情歌.flac",
+                      "filename":  "动力火车-背叛情歌.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/动力火车-背叛情歌.flac"
+                  },
+                  {
+                      "name":  "华晨宇\u0026郎朗",
+                      "artist":  "好想爱这个世界啊(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/华晨宇\u0026郎朗-好想爱这个世界啊(live).flac",
+                      "filename":  "华晨宇\u0026郎朗-好想爱这个世界啊(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/华晨宇\u0026郎朗-好想爱这个世界啊(live).flac"
+                  },
+                  {
+                      "name":  "回小仙",
+                      "artist":  "醒不来的梦",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/回小仙-醒不来的梦.flac",
+                      "filename":  "回小仙-醒不来的梦.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/回小仙-醒不来的梦.flac"
+                  },
+                  {
+                      "name":  "大喜",
+                      "artist":  "好久没见过",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大喜-好久没见过.flac",
+                      "filename":  "大喜-好久没见过.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大喜-好久没见过.flac"
+                  },
+                  {
+                      "name":  "大壮",
+                      "artist":  "伪装",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大壮-伪装.flac",
+                      "filename":  "大壮-伪装.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大壮-伪装.flac"
+                  },
+                  {
+                      "name":  "大欢",
+                      "artist":  "多年以后",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大欢-多年以后.flac",
+                      "filename":  "大欢-多年以后.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大欢-多年以后.flac"
+                  },
+                  {
+                      "name":  "大籽",
+                      "artist":  "白月光与朱砂痣",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大籽-白月光与朱砂痣.flac",
+                      "filename":  "大籽-白月光与朱砂痣.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/大籽-白月光与朱砂痣.flac"
+                  },
+                  {
+                      "name":  "戴羽彤",
+                      "artist":  "来迟",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/戴羽彤-来迟.flac",
+                      "filename":  "戴羽彤-来迟.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/戴羽彤-来迟.flac"
+                  },
+                  {
+                      "name":  "房东的猫",
+                      "artist":  "云烟成雨",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/房东的猫-云烟成雨.flac",
+                      "filename":  "房东的猫-云烟成雨.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/房东的猫-云烟成雨.flac"
+                  },
+                  {
+                      "name":  "杭娇",
+                      "artist":  "听心",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/杭娇-听心.flac",
+                      "filename":  "杭娇-听心.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/杭娇-听心.flac"
+                  },
+                  {
+                      "name":  "楚南",
+                      "artist":  "你一直住在我心里",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/楚南-你一直住在我心里.flac",
+                      "filename":  "楚南-你一直住在我心里.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/楚南-你一直住在我心里.flac"
+                  },
+                  {
+                      "name":  "程响",
+                      "artist":  "时光洪流",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/程响-时光洪流.flac",
+                      "filename":  "程响-时光洪流.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/程响-时光洪流.flac"
+                  },
+                  {
+                      "name":  "程响",
+                      "artist":  "等你归来",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/程响-等你归来.flac",
+                      "filename":  "程响-等你归来.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/程响-等你归来.flac"
+                  },
+                  {
+                      "name":  "简弘亦",
+                      "artist":  "你一定要幸福",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/简弘亦-你一定要幸福.flac",
+                      "filename":  "简弘亦-你一定要幸福.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/简弘亦-你一定要幸福.flac"
+                  },
+                  {
+                      "name":  "胡66",
+                      "artist":  "后来遇见他",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/胡66-后来遇见他.flac",
+                      "filename":  "胡66-后来遇见他.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/胡66-后来遇见他.flac"
+                  },
+                  {
+                      "name":  "胡彦斌",
+                      "artist":  "你要的全拿走",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/胡彦斌-你要的全拿走.flac",
+                      "filename":  "胡彦斌-你要的全拿走.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/胡彦斌-你要的全拿走.flac"
+                  },
+                  {
+                      "name":  "范晓萱",
+                      "artist":  "氧气(缺氧版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/范晓萱-氧气(缺氧版).flac",
+                      "filename":  "范晓萱-氧气(缺氧版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/范晓萱-氧气(缺氧版).flac"
+                  },
+                  {
+                      "name":  "贺一航",
+                      "artist":  "请先说你好",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/贺一航-请先说你好.flac",
+                      "filename":  "贺一航-请先说你好.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/贺一航-请先说你好.flac"
+                  },
+                  {
+                      "name":  "贺翔基",
+                      "artist":  "残酷游戏",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/贺翔基-残酷游戏.flac",
+                      "filename":  "贺翔基-残酷游戏.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/贺翔基-残酷游戏.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "关山酒",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-关山酒.flac",
+                      "filename":  "邓寓君(等什么君)-关山酒.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-关山酒.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "叹郁孤",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-叹郁孤.flac",
+                      "filename":  "邓寓君(等什么君)-叹郁孤.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-叹郁孤.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "春庭雪",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-春庭雪.flac",
+                      "filename":  "邓寓君(等什么君)-春庭雪.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-春庭雪.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "笑看",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-笑看.flac",
+                      "filename":  "邓寓君(等什么君)-笑看.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-笑看.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "误红妆",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-误红妆.flac",
+                      "filename":  "邓寓君(等什么君)-误红妆.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-误红妆.flac"
+                  },
+                  {
+                      "name":  "邓寓君(等什么君)",
+                      "artist":  "辞九门回忆",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-辞九门回忆.flac",
+                      "filename":  "邓寓君(等什么君)-辞九门回忆.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/邓寓君(等什么君)-辞九门回忆.flac"
+                  },
+                  {
+                      "name":  "郭顶",
+                      "artist":  "水星记",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭顶-水星记.flac",
+                      "filename":  "郭顶-水星记.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭顶-水星记.flac"
+                  },
+                  {
+                      "name":  "郭飞宏",
+                      "artist":  "你选择冷漠，我选择洒脱(dj沈念)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-你选择冷漠，我选择洒脱(dj沈念).flac",
+                      "filename":  "郭飞宏-你选择冷漠，我选择洒脱(dj沈念).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-你选择冷漠，我选择洒脱(dj沈念).flac"
+                  },
+                  {
+                      "name":  "郭飞宏",
+                      "artist":  "你选择冷漠，我选择洒脱",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-你选择冷漠，我选择洒脱.flac",
+                      "filename":  "郭飞宏-你选择冷漠，我选择洒脱.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-你选择冷漠，我选择洒脱.flac"
+                  },
+                  {
+                      "name":  "郭飞宏",
+                      "artist":  "越痛越上瘾",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-越痛越上瘾.flac",
+                      "filename":  "郭飞宏-越痛越上瘾.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/郭飞宏-越痛越上瘾.flac"
+                  },
+                  {
+                      "name":  "队长",
+                      "artist":  "哪里都是你",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/队长-哪里都是你.flac",
+                      "filename":  "队长-哪里都是你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/队长-哪里都是你.flac"
+                  },
+                  {
+                      "name":  "陈雪凝",
+                      "artist":  "你的酒馆对我打了烊",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-你的酒馆对我打了烊.flac",
+                      "filename":  "陈雪凝-你的酒馆对我打了烊.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-你的酒馆对我打了烊.flac"
+                  },
+                  {
+                      "name":  "陈雪凝",
+                      "artist":  "没有人心疼我",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-没有人心疼我.flac",
+                      "filename":  "陈雪凝-没有人心疼我.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-没有人心疼我.flac"
+                  },
+                  {
+                      "name":  "陈雪凝",
+                      "artist":  "灰姑娘",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-灰姑娘.flac",
+                      "filename":  "陈雪凝-灰姑娘.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/陈雪凝-灰姑娘.flac"
+                  },
+                  {
+                      "name":  "隔壁老樊",
+                      "artist":  "多想在平庸的生活拥抱你(live)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/隔壁老樊-多想在平庸的生活拥抱你(live).flac",
+                      "filename":  "隔壁老樊-多想在平庸的生活拥抱你(live).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/隔壁老樊-多想在平庸的生活拥抱你(live).flac"
+                  },
+                  {
+                      "name":  "韩可可",
+                      "artist":  "迷失在梦中",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/韩可可-迷失在梦中.flac",
+                      "filename":  "韩可可-迷失在梦中.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/韩可可-迷失在梦中.flac"
+                  },
+                  {
+                      "name":  "韩尚霏",
+                      "artist":  "怎样呢",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/韩尚霏-怎样呢.flac",
+                      "filename":  "韩尚霏-怎样呢.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/韩尚霏-怎样呢.flac"
+                  },
+                  {
+                      "name":  "顾峰\u0026斯琴高丽",
+                      "artist":  "犯错",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/顾峰\u0026斯琴高丽-犯错.flac",
+                      "filename":  "顾峰\u0026斯琴高丽-犯错.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/顾峰\u0026斯琴高丽-犯错.flac"
+                  },
+                  {
+                      "name":  "黄诗扶",
+                      "artist":  "九万字(念白版)",
+                      "subcategory":  "【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]",
+                      "path":  "深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/黄诗扶-九万字(念白版).flac",
+                      "filename":  "黄诗扶-九万字(念白版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损]/【网红伤感】盘点网络热门伤感情歌180首，述说不眠夜里的孤单心事[无损] (2)/黄诗扶-九万字(念白版).flac"
+                  },
+                  {
+                      "name":  "g.e.m.邓紫棋",
+                      "artist":  "光年之外",
+                      "subcategory":  "治愈伤感",
+                      "path":  "深夜eom/治愈伤感/g.e.m.邓紫棋-光年之外.flac",
+                      "filename":  "g.e.m.邓紫棋-光年之外.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/治愈伤感/g.e.m.邓紫棋-光年之外.flac"
+                  },
+                  {
+                      "name":  "His Theme",
+                      "artist":  "Toby Fox",
+                      "subcategory":  "治愈伤感",
+                      "path":  "深夜eom/治愈伤感/His Theme-Toby Fox.mp3",
+                      "filename":  "His Theme-Toby Fox.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/治愈伤感/His Theme-Toby Fox.mp3"
+                  },
+                  {
+                      "name":  "lovely",
+                      "artist":  "Billie Eilish.Khalid",
+                      "subcategory":  "治愈伤感",
+                      "path":  "深夜eom/治愈伤感/lovely-Billie Eilish.Khalid#gk5B5.mp3",
+                      "filename":  "lovely-Billie Eilish.Khalid#gk5B5.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/治愈伤感/lovely-Billie Eilish.Khalid#gk5B5.mp3"
+                  },
+                  {
+                      "name":  "On My Way",
+                      "artist":  "萨吉",
+                      "subcategory":  "治愈伤感",
+                      "path":  "深夜eom/治愈伤感/On My Way-萨吉#jskHR.mp3",
+                      "filename":  "On My Way-萨吉#jskHR.mp3",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/治愈伤感/On My Way-萨吉#jskHR.mp3"
+                  },
+                  {
+                      "name":  "221小伙伴",
+                      "artist":  "遥远的你(正式版)",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/221小伙伴-遥远的你(正式版).flac",
+                      "filename":  "221小伙伴-遥远的你(正式版).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/221小伙伴-遥远的你(正式版).flac"
+                  },
+                  {
+                      "name":  "en",
+                      "artist":  "嚣张",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/en-嚣张.flac",
+                      "filename":  "en-嚣张.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/en-嚣张.flac"
+                  },
+                  {
+                      "name":  "en",
+                      "artist":  "爱不可求",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/en-爱不可求.flac",
+                      "filename":  "en-爱不可求.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/en-爱不可求.flac"
+                  },
+                  {
+                      "name":  "in",
+                      "artist":  "k\u0026王忻辰-迷失幻境",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/in-k\u0026王忻辰-迷失幻境.flac",
+                      "filename":  "in-k\u0026王忻辰-迷失幻境.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/in-k\u0026王忻辰-迷失幻境.flac"
+                  },
+                  {
+                      "name":  "lker林柯",
+                      "artist":  "满目星辰皆是你",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/lker林柯-满目星辰皆是你.flac",
+                      "filename":  "lker林柯-满目星辰皆是你.flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/lker林柯-满目星辰皆是你.flac"
+                  },
+                  {
+                      "name":  "mop17",
+                      "artist":  "逾期回忆(feat.魏然)",
+                      "subcategory":  "网络伤感",
+                      "path":  "深夜eom/网络伤感/mop17-逾期回忆(feat.魏然).flac",
+                      "filename":  "mop17-逾期回忆(feat.魏然).flac",
+                      "category":  "深夜eom",
+                      "url":  "https://raw.githubusercontent.com/pkoiuu/haohao-music/main/深夜eom/网络伤感/mop17-逾期回忆(feat.魏然).flac"
+                  }
+              ]
+}
